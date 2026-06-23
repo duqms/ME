@@ -16,13 +16,15 @@ System Engineer & DevOps Engineer
 
 ## Projects Repository
 
-* 🐧 Linux Lab
-* ⚙️ Jenkins Lab
-* ☸️ Kubernetes Lab
-* 📊 Monitoring Lab
-* 🌐 DNS Lab
-* 🤖 Ansible Lab
-* 🔐 Vault Lab
+* 📌 Linux Lab
+* 📌 Nginx Lab
+* 📌 Tomcat Lab
+* 📌 Jenkins Lab
+* 📌 Kubernetes Lab
+* 📌 Monitoring Lab
+* 📌 DNS Lab
+* 📌 Ansible Lab
+* 📌 Vault Lab
 
 ## Interests
 
